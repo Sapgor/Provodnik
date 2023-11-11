@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Проводник\Проводник\bin\Debug\net6.0\Проводник.exe
+C:\Users\USER\source\repos\Проводник\Проводник\bin\Debug\net6.0\Проводник.deps.json
+C:\Users\USER\source\repos\Проводник\Проводник\bin\Debug\net6.0\Проводник.runtimeconfig.json
+C:\Users\USER\source\repos\Проводник\Проводник\bin\Debug\net6.0\Проводник.dll
+C:\Users\USER\source\repos\Проводник\Проводник\bin\Debug\net6.0\Проводник.pdb
+C:\Users\USER\source\repos\Проводник\Проводник\obj\Debug\net6.0\Проводник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Проводник\Проводник\obj\Debug\net6.0\Проводник.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Проводник\Проводник\obj\Debug\net6.0\Проводник.AssemblyInfo.cs
+C:\Users\USER\source\repos\Проводник\Проводник\obj\Debug\net6.0\Проводник.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Проводник\Проводник\obj\Debug\net6.0\Проводник.dll
+C:\Users\USER\source\repos\Проводник\Проводник\obj\Debug\net6.0\refint\Проводник.dll
+C:\Users\USER\source\repos\Проводник\Проводник\obj\Debug\net6.0\Проводник.pdb
+C:\Users\USER\source\repos\Проводник\Проводник\obj\Debug\net6.0\Проводник.genruntimeconfig.cache
+C:\Users\USER\source\repos\Проводник\Проводник\obj\Debug\net6.0\ref\Проводник.dll
